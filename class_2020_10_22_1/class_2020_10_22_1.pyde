@@ -1,0 +1,5 @@
+size(640, 360)
+background(0)
+fill(0)
+stroke(255, 153, 0)
+rect(width * 0.25, height * 0.1, width * 0.5, height * 0.8)
