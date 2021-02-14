@@ -4,7 +4,7 @@
 #include <iostream>
 
 int main() {
-    int absolute_value;
+    double absolute_value;
     std::cout << "x=";
     std::cin >> absolute_value;
 
